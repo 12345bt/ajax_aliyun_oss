@@ -1,5 +1,5 @@
 <?php
-//个人测试
+
 //ACCESS_ID
 define('OSS_ACCESS_ID', '*****');
 
